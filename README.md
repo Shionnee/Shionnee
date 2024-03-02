@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shionnee
-- 👀 I’m interested in web and mobile apps
+- 👋 Hi, I’m Melike (@Shionnee)
+- 👀 I’m interested in the development of web and mobile applications
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any mobile or web project that would improve my skills
 - 📫 How to reach me ; dm to shinon on discord
