@@ -13,7 +13,7 @@ __Let's Team Up!__
 __Get in Touch!__
 - 📫 Reach out to me via Discord (username: shinon). Let's chat and explore how we can create something awesome together!
 
-_I'm enthusiastic about stepping into the world of Flutter development and ready to make a meaningful contribution. Let's embark on this journey together!_
+_I'm enthusiastic about stepping into the world of software development and ready to make a meaningful contribution. Let's embark on this journey together!_
 
 <!---
 Shionnee/Shionnee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
