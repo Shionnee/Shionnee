@@ -1,7 +1,6 @@
 # Hey, I'm Melike 👋
 
-AI Agent Developer based in London. I build Python-powered agents
-that automate real-world tasks using LLMs and Google ADK.
+AI Automation Engineer | AI Engineer · LLM Apps · Agents · Automation · Python
 
 ## Currently Exploring
 
