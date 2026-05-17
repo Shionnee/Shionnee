@@ -1,21 +1,26 @@
-__Nice to Meet You!__
-- 👋 Hey there! I'm Melike, also known as @Shionnee in the coding world.
+# Hey, I'm Melike 👋
 
-__What Gets Me Excited__
-- 👀 I'm all about diving into the magic of web and mobile app development!
+AI Agent Developer based in London. I build Python-powered agents
+that automate real-world tasks using LLMs and Google ADK.
 
-__Currently Exploring__
-- 🌱 Right now, I'm delving deep into the world of Flutter, eager to master the art of crafting seamless mobile experiences.
+## Currently Exploring
 
-__Let's Team Up!__
-- 💞️ I'm on the lookout for opportunities to join forces on exciting mobile and web projects. Collaboration is key to growth, and I'm ready to bring my enthusiasm and dedication to the table.
+- 🤖 Multi-agent orchestration patterns
+- 🧠 Agentic memory and context management
+- 🔗 Tool use and function calling with LLMs
+- ⚙️ Google ADK for production-ready agent workflows
 
-__Get in Touch!__
-- 📫 Reach out to me via Discord (username: shinon). Let's chat and explore how we can create something awesome together!
+## Tech Stack
 
-_I'm enthusiastic about stepping into the world of software development and ready to make a meaningful contribution. Let's embark on this journey together!_
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-<!---
-Shionnee/Shionnee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## GitHub Stats
+
+![Melike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shionnee&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shionnee&layout=compact&theme=dark&hide_border=true)
+
+## Let's Connect
+
+- 📫 [Email](melkurtmcluskie@gmail.com)
