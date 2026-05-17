@@ -19,7 +19,7 @@ that automate real-world tasks using LLMs and Google ADK.
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shionnee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shionnee&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shionnee&theme=tokyonight)
 
 ## Let's Connect
 
